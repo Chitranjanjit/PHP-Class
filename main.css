@@ -1,0 +1,22 @@
+#wrapper{
+    background-color: pink;
+    height: fit-content;
+
+}
+#content
+{
+    background-color: aquamarine;
+}
+.list
+{
+    background-color: rgb(122, 122, 158);
+}
+#menu
+{
+    background-color: yellowgreen;
+}
+#footer
+{
+    background-color: rgb(189, 166, 211);
+
+}
